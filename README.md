@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27271620/README.md)
+
 # Scientific-Calculator-by-Georgios-Iasonidis# Scientific Calculator in Java
 
 A scientific calculator/interpreter built in **Java** with **ANTLR** and the **Visitor pattern**. The project was developed in **Eclipse** and evaluates arithmetic, logical, trigonometric, and other mathematical expressions through custom visitor methods.
