@@ -1,0 +1,3 @@
+ΓΙΑ ΝΑ ΤΡΕΞΩ ΤΟ ΠΡΟΤΖΕΚΤ ΣΤΟ CMD :
+cd C:\Users\giorgos\eclipse-workspace\Java_erg
+java -jar Scientific_Culculator.jar
